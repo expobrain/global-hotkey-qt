@@ -3,6 +3,8 @@
 
 #include <QMainWindow>
 
+const QSize WINDOW_SIZE = QSize(300, 300);
+
 namespace Ui {
 class MainWindow;
 }
